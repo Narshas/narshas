@@ -16,4 +16,4 @@ Now I switched to tech stack but my goal stood the same.
 🤝 Certainly looking for a job or any other kind of coloboration. So if you wanna say hay or I can be of any help, 
 please do not hesitate to contact me.
 
-tg: @crisis_whitness | mark.zaytsev@yandex.ru | +34 (653) 777-127
+tg: @crisis_whitness | mark.zaytsev@yandex.ru | +34 (653) 777-127 | [CodeWars]([url](https://www.codewars.com/users/Narshas))
