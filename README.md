@@ -1,6 +1,4 @@
-Yo_may_start_from_here
-
-* Hello there 👋 *
+Hello there 👋
 My Name Is Mark, I am junior fronted-end dev. You can check my CV here:
 
 ХабрКарьера | HH.ru | Notion
