@@ -17,4 +17,3 @@ Now I switched to tech stack but my goal stood the same.
 please do not hesitate to contact me.
 
 tg: @crisis_whitness | mark.zaytsev@yandex.ru | +34 (653) 777-127
---
