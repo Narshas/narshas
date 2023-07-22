@@ -1,7 +1,7 @@
 Hello there 👋
 My Name Is Mark, I am junior fronted-end dev. You can check my CV [in Russian here]([url](https://career.habr.com/narshas)) or [here in English]([url](https://pricey-stage-004.notion.site/Mark-Zaitsev-junior-front-end-8d7b509816e64032b93b35692611f93f)).
 
-📚 I'm quite confident with common JS (ES6) and CSS. Can cope with flex/grid and responsive layouts. On good terms with objects, arrays, classes, OOP, web API, asynchronous programming (hi to Event Loop and Promises).
+📚 I'm quite confident with native JS (ES6) and CSS. Can cope with flex/grid and responsive layouts. On good terms with objects, arrays, classes, OOP, web API, asynchronous programming (hi to Event Loop and Promises).
 
 🎯 For now my main focus is React, especially React Router;
 
