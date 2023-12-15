@@ -1,5 +1,5 @@
 Hello there 👋
-My Name Is Mark, I am junior fronted-end dev. You can [check my CV here](https://narshas.notion.site/Mark-Zaitsev-junior-front-end-8d7b509816e64032b93b35692611f93f).
+My Name Is Mark, I am junior fronted-end dev. You can [check my CV here](https://narshas.notion.site/Mark-Zaitsev-junior-front-end-fc5ea1f2198841eda21d2973778acd37?pvs=4).
 
 🛠️ I'm quite confident with native JS (ES6) and CSS. Can cope with flex/grid and responsive layouts. On good terms with objects, arrays, classes, OOP, web API, asynchronous programming (hi to Event Loop and Promises).
 
