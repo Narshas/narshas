@@ -15,4 +15,4 @@ Now I switched to tech stack but my goal stood the same;
 
 🗣️ Speak fluently English, Russian and basicly Spanish.
 
-Telegram: @sphiggo | mark.zaytsev@yandex.ru | +34 (653) 777-127 | [CodeWars](https://www.codewars.com/users/Narshas)
+[LinkedIn](https://www.linkedin.com/in/mark-zaytsev-a09197134/) | telegram: @sphiggo | mark.zaytsev@yandex.ru | +34 (653) 777-127 | [CodeWars](https://www.codewars.com/users/Narshas)
